@@ -1,0 +1,14 @@
+* {
+font-family: Helvetica;
+text-align: center;
+}
+
+.header {
+background: url('../images/the-flat-iron-building.png');
+}
+
+h1 {
+font-size: 70px;
+font-weight: bold;
+color: white;
+}
