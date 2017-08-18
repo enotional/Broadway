@@ -24,8 +24,8 @@ font-size: 32px;
 font-weight: bold;
 }
 
-h6 {
-background: url('../images/the-flatiron-building.png');
+h4 {
+background-image: url('../images/the-flatiron-building.png');
 font-size: 23px;
 font-weight: bold;
 color: white;
