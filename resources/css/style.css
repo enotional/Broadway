@@ -8,16 +8,29 @@ background: url('../images/the-flatiron-building.png');
 color: white;
 }
 
+.header-nav {
+  color: white;
+}
+
+.foot-nav {color: white;
+}
+
 .footer {
 font-size: 11 px;
 color: white;
 background-color: dimgray;
+}
+
+.footer p {
+color: white;
+display: block;
 text-align: left;
 }
 
 h1 {
 font-size: 70px;
 font-weight: bold;
+}
 
 h2 {
 font-size: 32px;
